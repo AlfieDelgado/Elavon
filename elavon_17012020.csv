@@ -1,39 +1,32 @@
-Search keyword report
-"January 9, 2020 - January 15, 2020"
 Keyword status,Keyword,Campaign,Ad group,Currency code,Status,Max. CPC,Policy details,Final URL,Mobile final URL,Impr.,Interactions,Interaction rate,Avg. cost,Cost,Conversions,Cost / conv.,Conv. rate
-Enabled, +app para +negocios,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,290,23,7.93%,29.76,684.57,0.00,0.00,0.00%
-Enabled,mi comercio,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Eligible,14.80 (enhanced),Approved,,,84,10,11.90%,24.64,246.35,4.00,61.59,40.00%
-Enabled, +mi +comercio,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Eligible,14.80 (enhanced),Approved,,,32,1,3.13%,3.05,3.05,1.00,3.05,100.00%
-Enabled, +app +facturas +electronicas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Eligible,14.80 (enhanced),Approved,,,1,1,100.00%,53.93,53.93,0.00,0.00,0.00%
-Enabled, +aplicacion para +negocios,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,268,21,7.84%,19.70,413.62,0.00,0.00,0.00%
-Enabled, +app para +pymes,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,7,0,0.00%, --,0.00,0.00,0.00,0.00%
-Enabled,[mi comercio],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Eligible,14.80 (enhanced),Approved,,,13,3,23.08%,0.30,0.90,0.00,0.00,0.00%
-Enabled,[mi comercio android],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0.00,0.00,0.00,0.00%
-Enabled,[mi comercio descarga],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0.00,0.00,0.00,0.00%
-Enabled,[mi comercio ios],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0.00,0.00,0.00,0.00%
-Enabled,[mi comercio santander],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Eligible,14.80 (enhanced),Approved,,,9,2,22.22%,0.72,1.43,0.00,0.00,0.00%
-Enabled, +facturacion +electronica,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Eligible,14.80 (enhanced),Approved,,,"3,082",96,3.11%,37.55,3604.65,1.00,3604.65,1.04%
-Enabled, +app +facturacion,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Rarely shown (low Quality Score),14.80 (enhanced),Approved,,,242,10,4.13%,23.30,233.01,0.00,0.00,0.00%
-Enabled, +aplicacion para +pymes,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,7,0,0.00%, --,0.00,0.00,0.00,0.00%
-Enabled,[mi comercio download],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0.00,0.00,0.00,0.00%
-Enabled, +app +facturas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Rarely shown (low Quality Score),14.80 (enhanced),Approved,,,55,4,7.27%,18.16,72.65,0.00,0.00,0.00%
-Enabled, +aplicacion para +empresas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,178,7,3.93%,19.60,137.21,0.00,0.00,0.00%
-Enabled, +mi +comercio android,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0.00,0.00,0.00,0.00%
-Enabled, +mi +comercio aplicacion,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0.00,0.00,0.00,0.00%
-Enabled, +mi +comercio descarga,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0.00,0.00,0.00,0.00%
-Enabled, +mi +comercio ios,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0.00,0.00,0.00,0.00%
-Enabled,[mi comercio elavon],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Eligible,14.80 (enhanced),Approved,,,2,2,100.00%,0.77,1.53,0.00,0.00,0.00%
-Enabled, +facturas +electronicas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Rarely shown (low Quality Score),14.80 (enhanced),Approved,,,"2,463",78,3.17%,31.86,2485.27,2.00,1242.64,2.56%
-Enabled, +aplicacion +facturas +electronicas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Eligible,14.80 (enhanced),Approved,,,2,0,0.00%, --,0.00,0.00,0.00,0.00%
-Enabled, +app para +empresas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,120,9,7.50%,27.53,247.80,0.00,0.00,0.00%
-Enabled, +mi +comercio app,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Eligible,14.80 (enhanced),Approved,,,7,0,0.00%, --,0.00,0.00,0.00,0.00%
-Enabled,[mi comercio aplicacion],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0.00,0.00,0.00,0.00%
-Enabled, +mi +comercio download,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0.00,0.00,0.00,0.00%
-Enabled, +mi +comercio elavon,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Eligible,14.80 (enhanced),Approved,,,3,1,33.33%,0.12,0.12,0.00,0.00,0.00%
-Enabled, +mi +comercio santander,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Eligible,14.80 (enhanced),Approved,,,12,7,58.33%,1.49,10.44,3.00,3.48,42.86%
-Enabled,[mi comercio app],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0.00,0.00,0.00,0.00%
-Total: All but removed keywords,,,,MXN,,,,,,"6,877",275,4.00%,29.81,8196.53,11.00,745.14,4.00%
-Total: Account,,,,MXN,,,,,,"2,703,281","55,825",2.07%,0.58,32568.03,"1,406.00",23.16,2.52%
-Total: App,,,,MXN,,,,,,"659,919","8,070",1.22%,1.08,8703.81,"1,190.00",7.31,14.75%
-Total: Search,,,,MXN,,,,,,"6,878",275,4.00%,29.81,8196.53,11.00,745.14,4.00%
-Total: Display,,,,MXN,,,,,,"2,036,484","47,480",2.33%,0.33,15667.69,205.00,76.43,0.43%
+Enabled, +app para +negocios,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,290,23,7.93%,29.76,684.57,0,0,0.00%
+Enabled,mi comercio,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Eligible,14.80 (enhanced),Approved,,,84,10,11.90%,24.64,246.35,4,61.59,40.00%
+Enabled, +mi +comercio,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Eligible,14.80 (enhanced),Approved,,,32,1,3.13%,3.05,3.05,1,3.05,100.00%
+Enabled, +app +facturas +electronicas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Eligible,14.80 (enhanced),Approved,,,1,1,100.00%,53.93,53.93,0,0,0.00%
+Enabled, +aplicacion para +negocios,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,268,21,7.84%,19.7,413.62,0,0,0.00%
+Enabled, +app para +pymes,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,7,0,0.00%, --,0,0,0,0.00%
+Enabled,[mi comercio],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Eligible,14.80 (enhanced),Approved,,,13,3,23.08%,0.3,0.9,0,0,0.00%
+Enabled,[mi comercio android],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0,0,0,0.00%
+Enabled,[mi comercio descarga],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0,0,0,0.00%
+Enabled,[mi comercio ios],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0,0,0,0.00%
+Enabled,[mi comercio santander],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Eligible,14.80 (enhanced),Approved,,,9,2,22.22%,0.72,1.43,0,0,0.00%
+Enabled, +facturacion +electronica,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Eligible,14.80 (enhanced),Approved,,,"3,082",96,3.11%,37.55,3604.65,1,3604.65,1.04%
+Enabled, +app +facturacion,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Rarely shown (low Quality Score),14.80 (enhanced),Approved,,,242,10,4.13%,23.3,233.01,0,0,0.00%
+Enabled, +aplicacion para +pymes,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,7,0,0.00%, --,0,0,0,0.00%
+Enabled,[mi comercio download],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0,0,0,0.00%
+Enabled, +app +facturas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Rarely shown (low Quality Score),14.80 (enhanced),Approved,,,55,4,7.27%,18.16,72.65,0,0,0.00%
+Enabled, +aplicacion para +empresas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,178,7,3.93%,19.6,137.21,0,0,0.00%
+Enabled, +mi +comercio android,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0,0,0,0.00%
+Enabled, +mi +comercio aplicacion,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0,0,0,0.00%
+Enabled, +mi +comercio descarga,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0,0,0,0.00%
+Enabled, +mi +comercio ios,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0,0,0,0.00%
+Enabled,[mi comercio elavon],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Eligible,14.80 (enhanced),Approved,,,2,2,100.00%,0.77,1.53,0,0,0.00%
+Enabled, +facturas +electronicas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Rarely shown (low Quality Score),14.80 (enhanced),Approved,,,"2,463",78,3.17%,31.86,2485.27,2,1242.64,2.56%
+Enabled, +aplicacion +facturas +electronicas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_facturacion_electronica_bro,MXN,Eligible,14.80 (enhanced),Approved,,,2,0,0.00%, --,0,0,0,0.00%
+Enabled, +app para +empresas,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_app_empresas_bro,MXN,Eligible,14.80 (enhanced),Approved,,,120,9,7.50%,27.53,247.8,0,0,0.00%
+Enabled, +mi +comercio app,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Eligible,14.80 (enhanced),Approved,,,7,0,0.00%, --,0,0,0,0.00%
+Enabled,[mi comercio aplicacion],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0,0,0,0.00%
+Enabled, +mi +comercio download,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0,0,0,0.00%
+Enabled, +mi +comercio elavon,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Eligible,14.80 (enhanced),Approved,,,3,1,33.33%,0.12,0.12,0,0,0.00%
+Enabled, +mi +comercio santander,mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_bro,MXN,Eligible,14.80 (enhanced),Approved,,,12,7,58.33%,1.49,10.44,3,3.48,42.86%
+Enabled,[mi comercio app],mi_comercio_mastercard_brand_search,mi_comercio_mastercard_brand_exa,MXN,Low search volume,14.80 (enhanced),Approved,,,0,0, --, --,0,0,0,0.00%
